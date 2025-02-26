@@ -226,7 +226,7 @@ partial class MainForm
         Controls.Add(btnUndo);
         Controls.Add(statusLabel);
         Name = "MainForm";
-        Text = "Excel to RESX Translator";
+        Text = "Excel2Resx";
         BackColor = Color.White;
         Font = new Font("Segoe UI", 9F, FontStyle.Regular, GraphicsUnit.Point);
         FormBorderStyle = FormBorderStyle.FixedDialog;
