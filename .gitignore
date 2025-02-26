@@ -1,0 +1,44 @@
+# .NET build output
+bin/
+obj/
+
+# Visual Studio files
+.vs/
+.vscode/
+*.user
+*.suo
+*.cache
+*.dll
+*.exe
+*.pdb
+*.tmp
+*.log
+*.vspscc
+*.vssscc
+.builds
+*.userprefs
+
+# NuGet
+packages/
+*.nupkg
+*.snupkg
+# NuGet v3's project.json files
+project.lock.json
+artifacts/
+
+# Backup files
+*~
+*.bak
+Backups/
+
+# Windows system files
+Thumbs.db
+Desktop.ini
+ehthumbs.db
+$RECYCLE.BIN/
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
