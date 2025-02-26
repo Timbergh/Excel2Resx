@@ -62,7 +62,6 @@ For example:
 
 ## Requirements
 
-- .NET 9.0
 - Windows
 
 ## License
